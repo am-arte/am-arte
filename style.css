@@ -306,7 +306,7 @@ body {
     color: #6d5c5c;
   }
   
-  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
+  
   
   .banner {
     position: relative;
@@ -383,7 +383,7 @@ body {
     font-size: 2.5rem;
     color: #3b2f2f;
     margin: 3rem 0 2rem;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   
   .productos-grid {
